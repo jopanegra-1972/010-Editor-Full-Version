@@ -231,3 +231,6 @@ This repository serves as the official landing page for 010 Editor. The software
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of 010 Editor today!**
+
+---
+**Last updated:** 2026-09-06 17:26:00 UTC
