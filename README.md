@@ -233,4 +233,4 @@ This repository serves as the official landing page for 010 Editor. The software
 **Get the most recent version of 010 Editor today!**
 
 ---
-**Last updated:** 2026-09-20 13:21:36 UTC
+**Last updated:** 2026-09-20 17:10:38 UTC
